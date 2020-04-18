@@ -2,7 +2,7 @@
 Preconditions:  
 * Empty SD memory
 * Computer (OS: Ubuntu)
-* Raspberry Pi
+* Raspberry Pi with no display, keyboard or mouse.
 
 ## Get Image
 Download [Raspberry Pi Imager](https://www.raspberrypi.org/downloads/)
