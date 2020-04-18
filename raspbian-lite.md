@@ -1,5 +1,5 @@
 # Raspbian Light
-Preconditions:  
+## Preconditions  
 * Empty SD memory
 * Computer (OS: Ubuntu)
 * Raspberry Pi with no display, keyboard or mouse.
