@@ -1,6 +1,6 @@
 # Raspbian Light
 ## Get Image
-Download <a href="https://www.raspberrypi.org/downloads/" target="_blank">Raspberry Pi Imager</a>
+Download [Raspberry Pi Imager](https://www.raspberrypi.org/downloads/)
 Install/Download "Raspbian light" image to SD
 
 ### Enable SSH
