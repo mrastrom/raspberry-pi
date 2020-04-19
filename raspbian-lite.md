@@ -1,10 +1,11 @@
 # Raspbian Light
-## Preconditions  
+
+## Install and configurate without display and keyboard or mouse
+### Preconditions  
 * Empty SD memory
 * Computer (OS: Ubuntu)
 * Raspberry Pi with no display, keyboard or mouse.
 
-## Get Image
 Download [Raspberry Pi Imager](https://www.raspberrypi.org/downloads/)
 Install/Download "Raspbian light" image to SD
 
@@ -31,7 +32,7 @@ depending on your local router...
 To discover ip numbers on your LAN use ex. [IP Address Tracker](https://www.solarwinds.com/free-tools/ip-address-tracker?CMP=ORG-BLG-DNS)
 
 User/password = pi/raspberrypi **REMEBER:** Change default password.
-#### Configurate
+#### Config
 ##### Quick and easy
 This is the easiest way to quickly configure the computer. Use:    
 `sudo raspi-config`  
