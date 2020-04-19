@@ -35,6 +35,7 @@
 [virtualenvwrapper commands](https://virtualenvwrapper.readthedocs.io/en/latest/command_ref.html)    
 [Installing](https://medium.com/@gitudaniel/installing-virtualenvwrapper-for-python3-ad3dfea7c717)    
 [Installing](https://virtualenvwrapper.readthedocs.io/en/latest/install.html#shell-startup-file)
+[Usefull links on virtualenv site](https://virtualenv.pypa.io/en/latest/#useful-links)
 
 ## GPIO in Python
 [Raspberrypi page](https://www.raspberrypi.org/documentation/usage/gpio/python/README.md)
