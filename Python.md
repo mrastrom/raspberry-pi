@@ -40,7 +40,8 @@
 ## GPIO in Python
 [Raspberrypi page](https://www.raspberrypi.org/documentation/usage/gpio/python/README.md)
 ### GPIO Libaries
-* [gpiozero](https://gpiozero.readthedocs.io/en/stable/)
+* [gpiozero](https://gpiozero.readthedocs.io/en/stable/)    
+GPIO Zero is installed by default in the Raspbian image, and the Raspberry Pi Desktop image for PC/Mac, both available from raspberrypi.org. Follow these guides to installing on Raspbian Lite and other operating systems, including for PCs using the remote GPIO feature.
 * [RPi.GPIO](https://pypi.org/project/RPi.GPIO/)
 * [raspberry-gpio-python](https://sourceforge.net/p/raspberry-gpio-python/wiki/Home/)    
 * [pigpio](https://pypi.org/project/pigpio/)  
