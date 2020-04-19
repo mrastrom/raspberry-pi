@@ -32,7 +32,7 @@
 `export VIRTUALENVWRAPPER_ENV_BIN_DIR=bin`    
 
 #### References
-[virtualenvwrapper commands](https://virtualenvwrapper.readthedocs.io/en/latest/command_ref.html)
+[virtualenvwrapper commands](https://virtualenvwrapper.readthedocs.io/en/latest/command_ref.html)    
 [Installing](https://medium.com/@gitudaniel/installing-virtualenvwrapper-for-python3-ad3dfea7c717)
 
 ## GPIO in Python
