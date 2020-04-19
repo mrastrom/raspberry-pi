@@ -33,14 +33,15 @@
 
 #### References
 [virtualenvwrapper commands](https://virtualenvwrapper.readthedocs.io/en/latest/command_ref.html)    
-[Installing](https://medium.com/@gitudaniel/installing-virtualenvwrapper-for-python3-ad3dfea7c717)
+[Installing](https://medium.com/@gitudaniel/installing-virtualenvwrapper-for-python3-ad3dfea7c717)    
+[Installing](https://virtualenvwrapper.readthedocs.io/en/latest/install.html#shell-startup-file)
 
 ## GPIO in Python
 [Raspberrypi page](https://www.raspberrypi.org/documentation/usage/gpio/python/README.md)
 ### GPIO Libaries
 * [gpiozero](https://gpiozero.readthedocs.io/en/stable/)
 * [RPi.GPIO](https://pypi.org/project/RPi.GPIO/)
-* [raspberry-gpio-python](https://sourceforge.net/p/raspberry-gpio-python/wiki/Home/)
+* [raspberry-gpio-python](https://sourceforge.net/p/raspberry-gpio-python/wiki/Home/)    
 * [pigpio](https://pypi.org/project/pigpio/)  
 
 [GPIO pin numbering](https://gpiozero.readthedocs.io/en/stable/recipes.html#pin-numbering)
