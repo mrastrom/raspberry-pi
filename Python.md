@@ -22,6 +22,9 @@
 12. The virtual environment is activated    
 
 #### .bashrc example
+' ... `    
+' ... `    
+' ... `    
 `export WORKON_HOME=~/Envs`    
 `export VIRTUALENVWRAPPER_PYTHON=/usr/bin/python3`    
 `export PROJECT_HOME=$HOME/develop`    
