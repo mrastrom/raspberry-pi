@@ -12,10 +12,10 @@ Install/Download "Raspbian light" image to SD
 Mount sd card:   
 `sudo mount /dev/sdb1 /mnt`
 
-### Enable SSH
+### SSH
 Add file named "ssh" in root on the mounted SD card it kan be empty, to start ssh deamon on startup.
 
-### Enable and config WIFI
+### WIFI
 Add and alter it to your needs [wpa_supplicant.conf](https://github.com/mrastrom/raspberry-pi/blob/master/wpa_supplicant.conf) file to root on mounted SD card
 UMount sd card:  
 `sudo umount /mnt`
