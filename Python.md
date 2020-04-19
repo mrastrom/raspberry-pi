@@ -7,5 +7,7 @@
 * [pigpio](https://pypi.org/project/pigpio/)  
 
 [GPIO pin numbering](https://gpiozero.readthedocs.io/en/stable/recipes.html#pin-numbering)
+#### Install GPIO Zero
+[how-to](https://gpiozero.readthedocs.io/en/stable/installing.html#installing-gpio-zero)
 #### I2C
 [I2C python](https://www.instructables.com/id/Raspberry-Pi-I2C-Python/)
