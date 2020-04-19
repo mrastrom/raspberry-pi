@@ -1,9 +1,9 @@
 ## Prepare for Python development
-`$ sudo apt install lsb-release \     
-   build-essential git git-core \     
-    exuberant-ctags virtualenvwrapper \     
-    python-virtualenv python3-virtualenv \     
-    python-dev python3-dev`  
+`$ sudo apt install lsb-release \`     
+   `build-essential git git-core \`     
+   `exuberant-ctags virtualenvwrapper \`     
+   `python-virtualenv python3-virtualenv \`     
+   `python-dev python3-dev`  
   
 [Virtual environment wrapper](https://virtualenvwrapper.readthedocs.io/en/latest/)
 1. Create a directory to hold the virtual environments.(mkdir ~/Envs).
