@@ -20,6 +20,12 @@ UMount sd card:
 `sudo umount /mnt`
 ### Run Raspberry Pi
 Insert the SD card into the Raspberry Pi and boot.
+Find the RPi (Raspberry Pi) IP address and use it to connect to the RPi from your computer using SSH or try using the default name 'raspberrypi'.
+Ex.    
+`sudo ssh pi@<an ip address>`    
+or  
+`sudo ssh pi@raspberrypi`
+User/password = pi/raspberrypi **REMEBER:** Change default password.
 #### Configurate
 ##### Quick and easy
 This is the easiest way to quickly configure the computer. Use:    
