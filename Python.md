@@ -22,11 +22,11 @@
 12. The virtual environment is activated    
 
 #### .bashrc example
-export WORKON_HOME=~/Envs
-export VIRTUALENVWRAPPER_PYTHON=/usr/bin/python3
-export PROJECT_HOME=$HOME/develop
-source /usr/local/bin/virtualenvwrapper.sh
-export VIRTUALENVWRAPPER_ENV_BIN_DIR=bin
+`export WORKON_HOME=~/Envs`    
+`export VIRTUALENVWRAPPER_PYTHON=/usr/bin/python3`    
+`export PROJECT_HOME=$HOME/develop`    
+`source /usr/local/bin/virtualenvwrapper.sh`    
+`export VIRTUALENVWRAPPER_ENV_BIN_DIR=bin`    
 
 ## GPIO in Python
 [Raspberrypi page](https://www.raspberrypi.org/documentation/usage/gpio/python/README.md)
