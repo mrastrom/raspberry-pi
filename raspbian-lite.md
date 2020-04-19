@@ -27,7 +27,8 @@ or
 `sudo ssh pi@raspberrypi`  
 or  
 `sudo ssh pi@raspberrypi.local`  
-depending on your local router  
+depending on your local router...  
+To discover ip numbers on your LAN use `arp -a`if your on a Linux comuper.
 
 User/password = pi/raspberrypi **REMEBER:** Change default password.
 #### Configurate
