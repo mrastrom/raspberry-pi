@@ -18,4 +18,9 @@ Add file "ssh" in root on the mounted SD card it kan be empty
 Add and alter it to your needs [wpa_supplicant.conf](https://github.com/mrastrom/raspberry-pi/blob/master/wpa_supplicant.conf) file to root on mounted SD card
 UMount sd card:  
 `sudo umount /mnt`
-
+### Run Raspberry Pi
+Insert the SD card into the Raspberry Pi and boot.
+#### Configurate
+##### Quick and easy
+This is the easiest way to quickly configure the computer. Use:    
+`sudo raspi-config`  
