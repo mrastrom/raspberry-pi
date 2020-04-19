@@ -1,22 +1,32 @@
 ## Prepare for Python development
 `$ sudo apt install lsb-release \`     
    `build-essential git git-core \`     
-   `exuberant-ctags \`          
+   `exuberant-ctags $ python3-pip\`          
    `python3-dev`  
+   
+ `$ sudo pip3 install virtualenvwrapper`
   
 [Virtual environment wrapper](https://virtualenvwrapper.readthedocs.io/en/latest/)
 1. Create a directory to hold the virtual environments.(mkdir ~/Envs).
 2. Add a line like "export WORKON_HOME=~/Envs" to your .bashrc.
 3. Add a line like "source /path/to/this/file/virtualenvwrapper.sh" to your .bashrc.
-   Ex. /usr/share/virtualenvwrapper/virtualenvwrapper.sh
-4. Run: source ~/.bashrc
-5. Run: workon
-6. A list of environments, empty, is printed.
-7. Run: mkvirtualenv temp
-8. Run: workon
-9. This time, the "temp" environment is included.
-10. Run: workon temp
-11. The virtual environment is activated    
+   Ex. /usr/local/bin/virtualenvwrapper.sh
+4. Add a line like "export VIRTUALENVWRAPPER_ENV_BIN_DIR=bin"
+5. Run: source ~/.bashrc
+6. Run: workon
+7. A list of environments, empty, is printed.
+8. Run: mkvirtualenv temp
+9. Run: workon
+10. This time, the "temp" environment is included.
+11. Run: workon temp
+12. The virtual environment is activated    
+
+#### .bashrc example
+export WORKON_HOME=~/Envs
+export VIRTUALENVWRAPPER_PYTHON=/usr/bin/python3
+export PROJECT_HOME=$HOME/develop
+source /usr/local/bin/virtualenvwrapper.sh
+export VIRTUALENVWRAPPER_ENV_BIN_DIR=bin
 
 ## GPIO in Python
 [Raspberrypi page](https://www.raspberrypi.org/documentation/usage/gpio/python/README.md)
