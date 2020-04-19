@@ -9,7 +9,7 @@
 1. Create a directory to hold the virtual environments.(mkdir ~/Envs).
 2. Add a line like "export WORKON_HOME=~/Envs" to your .bashrc.
 3. Add a line like "source /path/to/this/file/virtualenvwrapper.sh" to your .bashrc.
-   Ex. usr/share/virtualenvwrapper/virtualenvwrapper.sh
+   Ex. /usr/share/virtualenvwrapper/virtualenvwrapper.sh
 4. Run: source ~/.bashrc
 5. Run: workon
 6. A list of environments, empty, is printed.
