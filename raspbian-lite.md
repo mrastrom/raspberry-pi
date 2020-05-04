@@ -31,7 +31,7 @@ or
 depending on your local router...  
 To discover ip numbers on your LAN use ex. [IP Address Tracker](https://www.solarwinds.com/free-tools/ip-address-tracker?CMP=ORG-BLG-DNS)
 
-User/password = pi/raspberrypi **REMEBER:** Change default password.
+User/password = pi/raspberry **REMEBER:** Change default password.
 #### Config
 ##### Quick and easy
 This is the easiest way to quickly configure the computer. Use:    
